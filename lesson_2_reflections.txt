@@ -1,1 +1,3 @@
 When i initialize a new repository, the folder i'm currently in, uses git to track the former versions of my file.
+
+I think that the staging area is a limbo of some sort, where we don't want to commit them now, but we will do it in the near future.
