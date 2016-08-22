@@ -1,3 +1,6 @@
 When i initialize a new repository, the folder i'm currently in, uses git to track the former versions of my file.
 
 I think that the staging area is a limbo of some sort, where we don't want to commit them now, but we will do it in the near future.
+
+
+I can use the staging area to assure that i only commit one logical change, because I can easily compare the last commit in the repository to the staging area'slast commit. 
