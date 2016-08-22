@@ -11,3 +11,5 @@ Branches would be helpful when I would want to implement an new experimental fea
 The branch visualisation is a quick tool to see what commits are visible from each branch, and what would change if i were to commit them.
 
 By merging two branches together we can implement new feature to the main program, when we are sure that it is stable. It is shown this way to make it easier to checkout earlier commits.
+
+By using the automatic merge tool, we don't have a guarantee that the merge will be sucessfull (there could be conflicts) so it's better  to do it manually
