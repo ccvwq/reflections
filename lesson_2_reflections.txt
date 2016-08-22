@@ -1,0 +1,1 @@
+When i initialize a new repository, the folder i'm currently in, uses git to track the former versions of my file.

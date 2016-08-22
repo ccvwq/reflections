@@ -1,0 +1,7 @@
+By comparing the changes in the two versions of a file, we can spot mistakes more easily without remembering where the changes were made. 
+
+By having the access to the entire history of a file you can see how a file was subsequently developed without being the developer. Also it helps to track bugs
+
+In my opinion by manually saving versions we can precisely commit when one big change is done,by automatically saving this process is much less likely. 
+
+Google docs isn't ment for coding so saving multiple files in one commit isn't really a useful feature for it, on the otherhand git is used mainly by programmers who often have many files that are linked together. 
