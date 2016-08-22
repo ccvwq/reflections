@@ -4,3 +4,5 @@ I think that the staging area is a limbo of some sort, where we don't want to co
 
 
 I can use the staging area to assure that i only commit one logical change, because I can easily compare the last commit in the repository to the staging area'slast commit. 
+
+Branches would be helpful when I would want to implement an new experimental feature while still developing the main application, without it. 
