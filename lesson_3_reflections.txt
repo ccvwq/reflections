@@ -1,1 +1,4 @@
 Having a remote repository would make it a lot easier for a group to work on a program. 
+
+When git automatically commits, there will be a big probability that the commits
+won't have one logical chance by commit
