@@ -1,0 +1,1 @@
+Having a remote repository would make it a lot easier for a group to work on a program. 
