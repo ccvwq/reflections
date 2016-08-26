@@ -10,3 +10,5 @@ Clone - If i want to copy to my computer a repository and also contribute to it
 Branch - If i want to implement an experimental feature but also have a working stable version
 
 It is useful to easily keep track of the changes that are commited.
+
+Without using gitHub it would be much harder to colaborate. 
