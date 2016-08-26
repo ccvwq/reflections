@@ -2,3 +2,9 @@ Having a remote repository would make it a lot easier for a group to work on a p
 
 When git automatically commits, there will be a big probability that the commits
 won't have one logical chance by commit
+
+Fork - if i want to modify someone else source file wihtout commmiting to the original
+
+Clone - If i want to copy to my computer a repository and also contribute to it
+
+Branch - If i want to implement an experimental feature but also have a working stable version
