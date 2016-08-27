@@ -12,3 +12,6 @@ Branch - If i want to implement an experimental feature but also have a working 
 It is useful to easily keep track of the changes that are commited.
 
 Without using gitHub it would be much harder to colaborate. 
+
+it's better to create a new branch when we want to propose a new feature of a
+big program, and not fix bugs
